@@ -21,7 +21,7 @@ Winners Summary
 
 ### Performance Analysis
 
-![Performance](/Performance Analysis.png)
+![Performance](/performance analysis.png)
 
 ---
 
