@@ -1,17 +1,32 @@
-FIFA World Cup Power BI Dashboard
+# FIFA World Cup Power BI Dashboard
 
-This Power BI dashboard provides interactive insights into FIFA World Cup tournaments. The dashboard analyzes tournament performance, winning teams, goal statistics, participating nations, and historical trends using Power BI visualizations and DAX measures.
+An interactive Power BI dashboard that analyzes FIFA World Cup tournaments using historical data. The dashboard provides insights into tournament performance, winning countries, goals scored, participating teams, and historical trends through interactive visualizations.
 
-Dataset contains
+2. Dashboard Pages
+📊 Overview
+KPI Cards
+Total World Cups
+Total Goals
+Total Matches
+Qualified Teams
+Winners Summary
 
-• Year
-• Host Country
-• Winner
-• Runner-up
-• Third Place
-• Fourth Place
-• Goals Scored
-• Qualified Teams
-• Matches Played
+## Dashboard Preview
 
-<a herf="https://github.com/hiiteshhhhhh/FIFA-Performance-analysis-Dashboard/blob/main/overview.png">overview</a>
+### Overview
+
+![Overview](Images/Overview.png)
+
+---
+
+### Performance Analysis
+
+![Performance](Images/Performance Analysis.png)
+
+---
+
+### Insights
+
+![Insights](Images/team insights.png)
+
+
