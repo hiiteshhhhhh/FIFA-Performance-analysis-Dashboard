@@ -15,18 +15,18 @@ Winners Summary
 
 ### Overview
 
-![Overview](Images/Overview.png)
+![Overview](/Overview.png)
 
 ---
 
 ### Performance Analysis
 
-![Performance](Images/Performance Analysis.png)
+![Performance](/Performance Analysis.png)
 
 ---
 
 ### Insights
 
-![Insights](Images/team insights.png)
+![Insights](/team insights.png)
 
 
