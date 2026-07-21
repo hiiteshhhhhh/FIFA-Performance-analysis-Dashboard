@@ -15,7 +15,7 @@ Winners Summary
 
 ### Overview
 
-![Overview](/Overview.png)
+![Overview](/overview.png)
 
 ---
 
