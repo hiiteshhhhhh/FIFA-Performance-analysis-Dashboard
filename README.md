@@ -21,12 +21,12 @@ Winners Summary
 
 ### Performance Analysis
 
-![Performance](/performance analysis.png)
+![Performance](/performance_analysis.png)
 
 ---
 
 ### Insights
 
-![Insights](/team insights.png)
+![Insights](/team_insights.png)
 
 
